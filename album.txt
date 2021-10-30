@@ -1,0 +1,35 @@
+1
+BTS
+BE
+./img/BE.png
+15
+Dimple
+./audio/1.mp3
+Black Swan
+./audio/2.mp3
+Mic Drop
+./audio/3.mp3
+Dianysos
+./audio/4.mp3
+UGH!
+./audio/5.mp3
+Film out
+./audio/6.mp3
+Magic Shop
+./audio/7.mp3
+idol
+./audio/8.mp3
+Best of Me
+./audio/9.mp3
+Still With You
+./audio/10.mp3
+Home
+./audio/11.mp3
+Pied Piper
+./audio/12.mp3
+Blood Sweat Tears
+./audio/13.mp3
+Love Myself
+./audio/14.mp3
+PTD
+./audio/15.mp3
